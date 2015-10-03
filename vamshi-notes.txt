@@ -30,3 +30,6 @@ git log
 
 git log --online 
 	Shows minimal information about all commits that were made
+
+git diff 
+	Show us what has changed between our working directory and staging area
