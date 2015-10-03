@@ -50,3 +50,10 @@ git merge [branch-name]
 
 git checkout [tag-name | branch-name |commit-hashid]
 	Switches to [commit-hashid] 
+
+git revert --no-edit [commit-id]
+	Reverses to [commit-id]
+
+git reset --hard   {when we accidentally delete the file, we can recover to the master commit}
+	Resets the working directory}
+}
